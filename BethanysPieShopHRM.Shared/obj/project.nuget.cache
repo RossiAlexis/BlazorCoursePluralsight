@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HoZdgSrjxE4YRmaSkmncpwM/L6+hwTUufg/7a4GrHbsWEkdO1C7Q9sHl++AUtOIpUoPBRCcTpUwspbsuq4yKKg==",
+  "success": true,
+  "projectFilePath": "D:\\Cursos\\Pluralsight\\Blazor\\Blazor Getting Started\\BethanysPieShopHRM.Server\\BethanysPieShopHRM.Shared\\BethanysPieShopHRM.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

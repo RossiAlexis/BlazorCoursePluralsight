@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "waNjYJPnOjGeSkTU+GTriwY2QTFl5ZxmcuLoFUXkFkOez7t8fWwkq59x0rgtZo4JIEhHv30lmQkJhFeR2QxSUQ==",
+  "success": true,
+  "projectFilePath": "D:\\Cursos\\Pluralsight\\Blazor\\Blazor Getting Started\\BethanysPieShopHRM.Server\\BethanysPieShopHRM.Server\\BethanysPieShopHRM.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.0.0\\microsoft.aspnetcore.authorization.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.aspnetcore.components\\3.0.0\\microsoft.aspnetcore.components.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.0.0\\microsoft.aspnetcore.components.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.0.0\\microsoft.aspnetcore.components.forms.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.0.0\\microsoft.aspnetcore.components.web.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.0.0\\microsoft.aspnetcore.metadata.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.0.0\\microsoft.extensions.dependencyinjection.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.0\\microsoft.extensions.logging.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\microsoft.jsinterop\\3.0.0\\microsoft.jsinterop.3.0.0.nupkg.sha512",
+    "C:\\Users\\Alexis\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
